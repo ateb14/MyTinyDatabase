@@ -1,4 +1,4 @@
-# MyTinyDatabase. 
+# MyTinyDatabase(unfinished). 
 This is my first try in a Golang project.(Maybe in my coding journey, too). 
 Just for fun lol. 
 数据的储存单元为Unit，以规定的格式逐条写入tinydb.data中以方便编码和解码,每个Unit通过hash映射得到Offset，代表这个Unit在文件中出现的位置。  
